@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.AssemblyInfo.cs
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/Tortiki/bin/Debug/net7.0/Tortiki
+/Users/oleg/Desktop/Tortiki/bin/Debug/net7.0/Tortiki.deps.json
+/Users/oleg/Desktop/Tortiki/bin/Debug/net7.0/Tortiki.runtimeconfig.json
+/Users/oleg/Desktop/Tortiki/bin/Debug/net7.0/Tortiki.dll
+/Users/oleg/Desktop/Tortiki/bin/Debug/net7.0/Tortiki.pdb
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.dll
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/refint/Tortiki.dll
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.pdb
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/Tortiki.genruntimeconfig.cache
+/Users/oleg/Desktop/Tortiki/obj/Debug/net7.0/ref/Tortiki.dll
